@@ -16,9 +16,9 @@ Static site, same stack as onpoint-landing (GitHub Pages + Cloudflare).
 6. Link the "OnPoint Pros Remodeling" GBP profile's website field → https://opremodeling.com
 
 ## Decisions still open (flagged 2026-07-12)
-- **Phone**: RESOLVED 2026-07-12 — dedicated brand number (214) 888-8758
+- **Phone**: RESOLVED 2026-07-12 — dedicated brand number (469) 617-5235
   everywhere (nav, hero, quick-answer, closer, footer, schema, llms.txt).
-  Use this same number on the "OnPoint Pros Remodeling" GBP profile for NAP match.
+  Matches the GBP profile. Number on the "OnPoint Pros Remodeling" GBP profile for NAP match.
 - **Lead form**: v1 is call-CTA only. To add a form, reuse the GHL webhook pattern
   from ~/dev/bathroom-offer.
 - Pricing bands come from real quote data (74 quotes, see onpoint-followup skill
